@@ -1,1 +1,3 @@
 # JavaOOP-and-Testing
+JavaOOP course in Software University (SoftUni)
+The Java Object-Oriented Programming course teach you the principles of object-oriented programming (OOP), how to work with classes and objects, how to use object-oriented modeling, and build class hierarchies. The basic principles of OOP such as abstraction (interfaces, abstract classes), encapsulation, inheritance and polymorphism will be studied. We will pay attention to paradigms such as event-driven programming, functional programming (lambda functions, closures), exception handling. We will look at how objects are cloned, compared and crawled. We will briefly go into the most commonly used design patterns.
